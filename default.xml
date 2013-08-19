@@ -38,7 +38,7 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
   <!-- START - D2VMU DEVICE, KERNEL, VENDOR -->
   <project path="device/samsung/d2vmu" name="vmobi-d2vmu/android_device_samsung_d2vmu" />
-  <project path="device/samsung/d2vmu-common" name="CyanogenMod/android_device_samsung_d2-common" />
+  <project path="device/samsung/d2-common" name="CyanogenMod/android_device_samsung_d2-common" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
   <project path="kernel/samsung/d2vmu" name="vmobi-d2vmu/android_kernel_samsung_d2vmu" />
