@@ -36,14 +36,16 @@
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
+  
   <!-- START - D2VMU DEVICE, KERNEL, VENDOR -->
   <project path="device/samsung/d2vmu" name="vmobi-d2vmu/android_device_samsung_d2vmu" />
   <project path="device/samsung/d2-common" name="CyanogenMod/android_device_samsung_d2-common" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
   <project path="kernel/samsung/d2vmu" name="vmobi-d2vmu/android_kernel_samsung_d2vmu" />
-  <project path="vendor/samsung" name="vmobi-d2vmu/android_vendor_samsung" />
+  <project path="vendor/samsung/d2vmu" name="vmobi-d2vmu/android_vendor_samsung_d2vmu" />
   <!-- END - D2VMU DEVICE, KERNEL, VENDOR -->
+  
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
